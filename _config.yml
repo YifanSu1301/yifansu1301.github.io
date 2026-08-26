@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yifan Su"
 title_separator          : "-"
 name                     : &name "Yifan Su"
-description              : &description "personal description"
+description              : &description "Yifan Su - Member of Technical Staff at Skild AI, working on robot learning. CMU CS '25."
 url                      : https://yifansu1301.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yifansu1301/yifansu1301.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yifan Su"
   avatar           : "personal.jpg"
-  bio              : "CS & Robotics Undergrad @ CMU"
+  bio              : "Member of Technical Staff @ Skild AI"
   location         : "Pittsburgh, PA, USA"
-  employer         :
+  employer         : "Skild AI"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=nrx2n0kAAAAJ"
-  email            : "yifansu@andrew.cmu.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=nrx2n0kAAAAJ"
+  email            : "yifan@skild.ai"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -175,16 +175,10 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
     output: true
     permalink: /:collection/:path/
 
@@ -209,15 +203,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -236,14 +221,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
