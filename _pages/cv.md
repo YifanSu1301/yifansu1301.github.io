@@ -13,11 +13,13 @@ A PDF version is available [here](/files/Resume.pdf).
 
 Education
 ======
+* Ph.D. in Robotics, Carnegie Mellon University (incoming)
+  * Advised by Deepak Pathak and Abhinav Gupta.
 * B.S. in Computer Science, Carnegie Mellon University, 2021 – 2025
 
 Experience
 ======
-* 2025 – present: **Member of Technical Staff**, Skild AI, Pittsburgh, PA
+* 2025 – present: **Member of Technical Staff**, Skild AI, San Francisco, CA
   * Robot learning for general-purpose robotics.
 
 * 2023 – 2025: **Research Assistant**, Robotics Institute, Carnegie Mellon University

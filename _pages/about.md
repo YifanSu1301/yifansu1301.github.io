@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Member of Technical Staff at [Skild AI](https://www.skild.ai/), where I work on robot learning. I received my B.S. in Computer Science from Carnegie Mellon University in May 2025.
+I am a Member of Technical Staff at [Skild AI](https://www.skild.ai/) in San Francisco, where I work on robot learning. I am an incoming Ph.D. student in Robotics at Carnegie Mellon University, where I will be advised by [Deepak Pathak](https://www.cs.cmu.edu/~dpathak/) and [Abhinav Gupta](https://www.cs.cmu.edu/~abhinavg/). I received my B.S. in Computer Science from CMU in May 2025.
 
 My interests sit at the intersection of robotics and machine learning — in particular reinforcement learning for control and manipulation, and planning and coordination for multi-agent systems.
 
-During my time at CMU, I worked with Professor [Jiaoyang Li](https://jiaoyangli.me/) on multi-agent path finding, focusing on how robot teams can execute plans robustly when delays occur in the real world. I also worked with Professor [Deepak Pathak](https://www.cs.cmu.edu/~dpathak/) on scaling reinforcement learning for dexterous manipulation and locomotion, and earlier with [Prof. Sebastian Scherer](https://theairlab.org/team/sebastian/) and [Prof. Micah Corah](https://www.micahcorah.com/) on a multi-drone reconstruction project at the CMU AirLab.
+As an undergraduate at CMU, I worked with Professor [Jiaoyang Li](https://jiaoyangli.me/) on multi-agent path finding, focusing on how robot teams can execute plans robustly when delays occur in the real world. I also worked with Deepak Pathak on scaling reinforcement learning for dexterous manipulation and locomotion, and earlier with [Prof. Sebastian Scherer](https://theairlab.org/team/sebastian/) and [Prof. Micah Corah](https://www.micahcorah.com/) on a multi-drone reconstruction project at the CMU AirLab.
 
 ## Selected Work
 
@@ -32,6 +32,8 @@ performing parkour-style traversal of real-world obstacles.
 <p class="video-caption">"PARKOUR!!" — Skild AI, October 2025. <a href="https://youtu.be/A82ByPKGurA">Watch on YouTube</a></p>
 
 ## News
+
+- Joining **CMU Robotics** as a Ph.D. student, advised by Deepak Pathak and Abhinav Gupta.
 
 - [BTPG-max](https://yifansu1301.github.io/publication/aaai2026) was accepted to **AAAI 2026**.
 
