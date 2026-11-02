@@ -26,9 +26,9 @@ simulated play, we deployed the policy on a real humanoid robot.
 
 <div class="video-embed">
   <video controls playsinline preload="none"
-         poster="https://assets.skild.ai/site/v1/blog/ps-6951ca2f9fab4531409a/soccer-green-poster.jpg"
-         aria-label="Humanoid soccer on real hardware — Skild AI">
-    <source src="https://assets.skild.ai/site/v1/blog/ps-6951ca2f9fab4531409a/soccer-green.mp4" type="video/mp4">
+         poster="https://assets.skild.ai/site/v1/blog/ps-6951ca2f9fab4531409a/soccer-gray-poster.jpg"
+         aria-label="Physical Self-Play humanoid soccer demo — Skild AI">
+    <source src="https://assets.skild.ai/site/v1/blog/ps-6951ca2f9fab4531409a/soccer-gray.mp4" type="video/mp4">
     Your browser does not support embedded video.
     <a href="https://www.skild.ai/blogs/physical-self-play">Watch the demo on the project page</a>.
   </video>
