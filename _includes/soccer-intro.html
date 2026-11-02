@@ -1,0 +1,10 @@
+<link rel="stylesheet" href="{{ base_path }}/assets/css/soccer-intro.css">
+<button class="soccer-replay" id="soccer-replay" type="button" hidden>↗ Replay the kick-off</button>
+<section class="soccer-intro" id="soccer-intro" role="dialog" aria-modal="true" aria-label="Robot soccer introduction" hidden>
+  <canvas id="soccer-stage" aria-hidden="true"></canvas>
+  <div class="soccer-top"><span class="soccer-brand">YS<span> / ROBOT LEARNING</span></span><button id="soccer-skip" type="button">Skip intro ↗</button></div>
+  <div class="soccer-kicker">SIMULATION → REALITY</div>
+  <div class="soccer-copy" aria-live="polite" aria-atomic="true"><p id="soccer-label">A LITTLE REINFORCEMENT.</p><h2 id="soccer-title">Intelligence,<br>in motion.</h2><p id="soccer-detail">Three shots. A window into my work.</p></div>
+  <div class="soccer-bottom"><span>G1 / SELF-PLAY</span><div class="soccer-count"><i></i><i></i><i></i><span id="soccer-score">00 / 03</span></div><span class="soccer-bottom-note">TRAIN. COMPETE. EMERGE.</span></div>
+</section>
+<script src="{{ base_path }}/assets/js/soccer-intro.js" defer></script>
