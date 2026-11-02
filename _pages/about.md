@@ -16,6 +16,25 @@ As an undergraduate at CMU, I worked with Professor [Jiaoyang Li](https://jiaoya
 
 ## Selected Work
 
+### Humanoid Soccer via Physical Self-Play — Skild AI
+
+I independently developed Skild AI's humanoid soccer demo, training policies through
+self-play in NVIDIA Isaac Sim and transferring them to real hardware. With a scoring
+objective and evolving opponents, the policy learned dribbling, ball shielding, and
+tackling without handcrafted rewards for these behaviors. After 140 years of
+simulated play, we deployed the policy on a real humanoid robot.
+
+<div class="video-embed">
+  <video controls playsinline preload="none"
+         poster="https://assets.skild.ai/site/v1/blog/ps-6951ca2f9fab4531409a/soccer-green-poster.jpg"
+         aria-label="Humanoid soccer on real hardware — Skild AI">
+    <source src="https://assets.skild.ai/site/v1/blog/ps-6951ca2f9fab4531409a/soccer-green.mp4" type="video/mp4">
+    Your browser does not support embedded video.
+    <a href="https://www.skild.ai/blogs/physical-self-play">Watch the demo on the project page</a>.
+  </video>
+</div>
+<p class="video-caption">Physical Self-Play — Skild AI, September 2026. <a href="https://www.skild.ai/blogs/physical-self-play">Project details and more videos</a></p>
+
 ### Robot Parkour — Skild AI
 
 Work from the team at [Skild AI](https://www.skild.ai/) on agile whole-body control: a robot
