@@ -7,7 +7,7 @@
   if(!ctx) return;
   var w,h,dpr,start=0,raf=0,finished=true,seen=0,oldOverflow='',exitTimer,watchdog;
   var copy=intro.querySelector('.soccer-copy'), marks=intro.querySelectorAll('.soccer-count i');
-  var chapters=[['01 / ABOUT ME','Yifan Su.','Robot learning at Skild AI. Incoming Robotics Ph.D. at Carnegie Mellon.'],['02 / PHYSICAL SELF-PLAY','Learning<br>through play.','Humanoid soccer. Evolving opponents. From simulation to real hardware.'],['03 / ROBOT PARKOUR','Beyond<br>the sandbox.','Agile whole-body control. Jumping, traversing, and moving through the real world.']];
+  var chapters=[['01 / ABOUT ME','Yifan Su.','Robot learning at Skild AI. Incoming Robotics Ph.D. at Carnegie Mellon.'],['02 / PHYSICAL SELF-PLAY','Learning<br>through self-play.','Humanoid soccer. Evolving opponents. From simulation to real hardware.'],['03 / ROBOT PARKOUR','Beyond<br>the sandbox.','Agile whole-body control. Jumping, traversing, and moving through the real world.']];
   var cards=document.querySelectorAll('[data-shot]');
   function settleCopy(){document.getElementById('soccer-label').textContent='YIFAN SU / ROBOT LEARNING';document.getElementById('soccer-title').innerHTML='Intelligence,<br>in motion.';document.getElementById('soccer-detail').textContent='From self-play to the real world. Explore my research and selected work below.';}
 

@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A PDF version is available [here](/files/Resume.pdf).
+A PDF version is available [here](/files/Yifan_Su_Resume.pdf).
 
 Education
 ======
